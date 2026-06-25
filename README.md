@@ -55,6 +55,7 @@ The artifact of this project is depth of understanding, defensible at a whiteboa
 ```
 train_gpt_mlx.py   # OpenAI's reference MLX trainer, modified to add the techniques above
 README.md          # this file
+requirements.txt   # required Python packages
 ```
 
 The dataset (FineWeb shards) and the full reference repo are not committed — see the
