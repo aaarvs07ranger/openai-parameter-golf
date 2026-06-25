@@ -6,8 +6,7 @@ OpenAI's [**Parameter Golf**](https://github.com/openai/parameter-golf) challeng
 and trains in **10 minutes on 8×H100 GPUs**, scored by tokenizer-agnostic **bits-per-byte (BPB)** on
 the FineWeb dataset.*
 
-> **Scope & honesty note.** This is an independent learning project, not a competition submission — the
-> official challenge ran March–April 2026. I worked from the public repository, dataset, and evaluation
+I worked from the public repository, dataset, and evaluation
 > harness to understand and implement the techniques that define the leaderboard. All training/model code
 > here is built on OpenAI's reference `train_gpt_mlx.py`, modified for study (see **Attribution**). Where I
 > report numbers, **storage/parameter measurements are my own and reproducible on any machine**; **quality
